@@ -7,7 +7,7 @@
         <div class="col-md-8">
 
 			<div class="card">
-				<div class="card-header">Subir nueva imagen</div>
+				<div class="card-header">Subir nueva image</div>
 
 				<!-- Formulario Imagenes-->
 				<div class="card-body">
