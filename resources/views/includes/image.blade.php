@@ -28,6 +28,7 @@
 			<p>{{$image->description}}</p>
 		</div>
 
+		<!-- Clase para los like -->
 		<div class="likes">
 
 			<!-- Comprobar si el usuario le dio like a la imagen -->
@@ -46,7 +47,7 @@
 
 			<span class="number_likes">{{count($image->likes)}}</span>
 		</div>
-
+		<!--Clase para los comentarios -->
 		<div class="comments">
 			<a href="{{ route('image.detail', ['id' => $image->id])}}" class="btn btn-sm btn-warning btn-comments">
 				Comentarios ({{count($image->comments)}})

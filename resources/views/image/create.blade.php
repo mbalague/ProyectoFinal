@@ -30,7 +30,7 @@
 							</div>
 						</div>
 
-						<!--Definimos el campo para añadir la descripcion-->
+						<!--Definir el campo para añadir la descripcion-->
 						<div class="form-group row">
 							<label for="description" class="col-md-3 col-form-label text-md-right">Descripcion</label>
 							<div class="col-md-7">
